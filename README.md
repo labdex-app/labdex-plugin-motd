@@ -1,6 +1,6 @@
 # Login banner & prompt (Ansible)
 
-A [labdex](https://github.com/reykimedev/labdex) plugin. Deploys the inventory's login banner and zone-coloured prompt to hosts over SSH. Plan = ansible --check --diff, apply = the real run.
+A [labdex](https://github.com/labdex-app/labdex) plugin. Deploys the inventory's login banner and zone-coloured prompt to hosts over SSH. Plan = ansible --check --diff, apply = the real run.
 
 **Version** 1.0 · **Works with** labdex >=1.3,<2 · **Plugin id** `motd`
 
